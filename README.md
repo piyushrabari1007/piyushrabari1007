@@ -1,16 +1,19 @@
-## Hi there 👋
+### 👋 Welcome to my GitHub!  
 
-<!--
-**piyushrabari1007/piyushrabari1007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m **Piyush Rabari**, a curious mind passionate about the world of **Data Science, Artificial Intelligence, and Machine Learning**.  
+My focus is on exploring how **NLP, Deep Learning, and Large Language Models (LLMs)** can shape the future of technology.  
 
-Here are some ideas to get you started:
+I believe in building solutions that are not only intelligent but also **impactful, scalable, and human-centered**.  
+For me, every dataset tells a story, and every model is an opportunity to make that story more meaningful.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+####  About Me  
+
+
+- 🔭 Passionate about **AI/ML, NLP, and Deep Learning research**  
+- 🌱 Always learning and staying curious in the world of **intelligent systems**  
+- 🤝 Excited to collaborate on **data science and AI projects**     
+- 📫 Reach me at **[piyushrabari1007@gmail.com](mailto:piyushrabari1007@gmail.com)**   
+
+
+✨ *Learning. Building. Evolving.*  
