@@ -10,7 +10,7 @@ For me, every dataset tells a story, and every model is an opportunity to make t
 ####  About Me  
 
 
-- 🔭 Passionate about **AI/ML, NLP, and Deep Learning research**  
+- 🔭 Passionate about  **Data Science | AI | ML | NLP | Deep Learning | LLMs** 
 - 🌱 Always learning and staying curious in the world of **intelligent systems**  
 - 🤝 Excited to collaborate on **data science and AI projects**     
 - 📫 Reach me at **[piyushrabari1007@gmail.com](mailto:piyushrabari1007@gmail.com)**   
