@@ -17,3 +17,11 @@ For me, every dataset tells a story, and every model is an opportunity to make t
 
 
 ✨ *Learning. Building. Evolving.*  
+
+#### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=piyushrabari1007&show_icons=true&theme=radical" alt="Piyush's GitHub stats" />
+</p>
+
+
+
