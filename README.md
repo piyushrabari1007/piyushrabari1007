@@ -23,5 +23,8 @@ For me, every dataset tells a story, and every model is an opportunity to make t
   <img src="https://github-readme-stats.vercel.app/api?username=piyushrabari1007&show_icons=true&theme=radical" alt="Piyush's GitHub stats" />
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=piyushrabari1007&theme=radical" alt="GitHub Streak" />
+</p>
 
 
